@@ -1,0 +1,119 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+h1{
+    margin-left: 70px;
+    padding: 20px;
+    font-size: 30px;
+}
+
+
+.ser{
+    width: 95%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.ser h1{
+    text-align: center;
+    font-family: 'Rowdies', cursive;
+    font-size: 50px;
+    margin-top: 40px;
+}
+
+.serv{
+    display: flex;
+    margin-top: 50px;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 30PX;
+}
+
+.serv-1{
+    flex-basis: 45%;
+    flex-wrap: wrap;
+}
+
+.serv-1 img{
+    width: 100%;
+    border-radius: 20px;
+}
+
+.serv-2{
+    flex-basis: 45%;
+    flex-wrap: wrap;
+    margin-left: 20px;
+}
+
+.serv-2 h1{
+    color: #000 !important;
+    text-align: center !important;
+    margin-top: -15px;
+}
+
+.serv-2 p{
+    padding: 10px;
+    font-family: 'Roboto', sans-serif;
+}
+
+.west{
+    width: 95%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.west h1{
+    text-align: center;
+    font-size: 50px;
+    font-family: 'Rowdies', cursive;
+    margin-top: 60px;
+    margin-bottom: 40px;
+}
+
+.west-0{
+    width: 90%;
+    margin-left: auto;
+    margin-right: auto;
+    padding: auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.west-1{
+    flex-basis: 60%;
+    flex-wrap: wrap;
+    display: block;
+}
+
+.west-1 img{
+    width: 100%;
+    border-radius: 20px;
+    height: 100vh;
+    object-fit: contain;
+}
+
+.west-2{
+    flex-basis: 40%;
+    display: flex;
+  
+}
+.west-2 div p{
+    width: 100%;
+    padding: 20px;
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+}
+
+
+
+
+ .logo-0 h1{
+    color: #fff;
+    margin-bottom: 20px;
+    letter-spacing: 1px;
+    margin-left: -25px;
+   
+ }
